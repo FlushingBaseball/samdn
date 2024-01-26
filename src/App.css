@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.App-Wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.Wrapper-Title{
+  display: flex;
+  flex-direction: column;
+}
