@@ -5,11 +5,28 @@
 }
 
 .App-Wrapper{
+  width: 100vw;
+  height: 100vh;
   display: flex;
   flex-direction: column;
+  background: linear-gradient(45deg, #465bcd, black)
 }
 
 .Wrapper-Title{
   display: flex;
   flex-direction: column;
+}
+
+.Wrapper-NavBar{
+  padding: 4px;
+  align-self: center;  
+}
+
+.Wrapper-Title{
+  color: white;
+}
+
+#Intro{
+  color: white;
+  background: black;
 }
