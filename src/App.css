@@ -17,6 +17,20 @@ Black
 }
 
 
+#navSearch{
+  width: 41vw;
+  border: none;
+  box-shadow: 3px 3px 2px #2196F3;
+  border-radius: 6px;
+  padding: 3px 5px;
+  margin-top: 5px
+}
+
+#search-icon{
+  padding-right: 6px;
+  color: white;
+}
+
 .App-Wrapper{
   width: 100vw;
   height: 100vh;
@@ -71,6 +85,9 @@ Black
   #Intro{
     width: 44vw;
 
+  }
+  #navSearch{
+    width: 80vw;
   }
 
   
